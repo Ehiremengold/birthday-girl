@@ -60,7 +60,7 @@ function App() {
         </div>
         <blockquote className="italic text-pink-500 font-medium text-lg">
           “You are altogether beautiful, my darling; there is no flaw in you.” —
-          Song of Songs 4:7
+          Song of Solomon 4:7
         </blockquote>
         <footer className="pt-8 text-sm text-gray-400">
           Made with ❤️ by your forever fan.
