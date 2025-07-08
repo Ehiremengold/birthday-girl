@@ -26,7 +26,7 @@ function App() {
 
   return (
     <main className="font-poppins min-h-screen flex flex-col items-center justify-center px-4 py-10 text-center space-y-8">
-      <section className="max-w-3xl space-y-6">
+      <section className="max-w-3xl space-y-6 w-full">
         <h1 className="text-4xl sm:text-6xl font-bold text-pink-600">
           🎉 Happy Birthday Onaopemipo! 🎂
         </h1>
