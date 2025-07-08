@@ -31,8 +31,8 @@ function App() {
           🎉 Happy Birthday Onaopemipo! 🎂
         </h1>
         <p className="text-lg sm:text-xl text-gray-700">
-          Today is all about you, my love. Every day with you is a blessing, I'm
-          grateful for you and i thank God sincerely for your life💖. May this
+          Today is all about you, my love. Every day with you is a blessing. I'm
+          grateful for you and I thank God sincerely for your life💖. May this
           new year bring you unmatched joy, love, and success.
         </p>
         <div className="w-full max-w-2xl aspect-[4/3] mx-auto rounded-3xl overflow-hidden shadow-2xl border-2 border-white backdrop-blur-lg">
